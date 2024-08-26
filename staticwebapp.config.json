@@ -1,9 +1,5 @@
 {
     "navigationFallback": {
         "rewrite": "/index.html"
-    },
-    "AllowedIpRanges": [],
-  	"AllowedServiceTagIds": [
-  		"AzureFrontDoor.Backend"
-  	]
+    }
 }
